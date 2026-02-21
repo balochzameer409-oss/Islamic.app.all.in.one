@@ -13,37 +13,37 @@
   "id": "/Islamic.app.all.in.one/",
   "icons": [
     {
-      "src": "/Islamic.app.all.in.one/icons/icon-72.png",
+      "src": "/Islamic.app.all.in.one/icon-72.png",
       "sizes": "72x72",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "/Islamic.app.all.in.one/icons/icon-96.png",
+      "src": "/Islamic.app.all.in.one/icon-96.png",
       "sizes": "96x96",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "/Islamic.app.all.in.one/icons/icon-128.png",
+      "src": "/Islamic.app.all.in.one/icon-128.png",
       "sizes": "128x128",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "/Islamic.app.all.in.one/icons/icon-144.png",
+      "src": "/Islamic.app.all.in.one/icon-144.png",
       "sizes": "144x144",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "/Islamic.app.all.in.one/icons/icon-192.png",
+      "src": "/Islamic.app.all.in.one/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
-      "purpose": "maskable"
+      "purpose": "any"
     },
     {
-      "src": "/Islamic.app.all.in.one/icons/icon-512.png",
+      "src": "/Islamic.app.all.in.one/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
