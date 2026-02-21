@@ -2,61 +2,60 @@
   "name": "StepToDeen - اسلامی ایپ",
   "short_name": "StepToDeen",
   "description": "نماز کے اوقات، قرآن، احادیث اور اسلامی معلومات",
-  "start_url": "./index.html",
+  "start_url": "/Islamic.app.all.in.one/",
+  "scope": "/Islamic.app.all.in.one/",
   "display": "standalone",
   "background_color": "#0d3d26",
   "theme_color": "#1a6b4a",
   "orientation": "portrait",
   "lang": "ur",
   "dir": "rtl",
+  "id": "/Islamic.app.all.in.one/",
   "icons": [
     {
-      "src": "icons/icon-72.png",
+      "src": "/Islamic.app.all.in.one/icons/icon-72.png",
       "sizes": "72x72",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any"
     },
     {
-      "src": "icons/icon-96.png",
+      "src": "/Islamic.app.all.in.one/icons/icon-96.png",
       "sizes": "96x96",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any"
     },
     {
-      "src": "icons/icon-128.png",
+      "src": "/Islamic.app.all.in.one/icons/icon-128.png",
       "sizes": "128x128",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any"
     },
     {
-      "src": "icons/icon-144.png",
+      "src": "/Islamic.app.all.in.one/icons/icon-144.png",
       "sizes": "144x144",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any"
     },
     {
-      "src": "icons/icon-192.png",
+      "src": "/Islamic.app.all.in.one/icons/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "maskable"
     },
     {
-      "src": "icons/icon-512.png",
+      "src": "/Islamic.app.all.in.one/icons/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "maskable"
     }
   ],
   "categories": ["lifestyle", "religion"],
-  "screenshots": [],
   "shortcuts": [
     {
       "name": "نماز کے اوقات",
       "short_name": "اوقات",
-      "url": "./index.html#prayer",
+      "url": "/Islamic.app.all.in.one/",
       "description": "نماز کے اوقات دیکھیں"
-    },
-    {
-      "name": "قرآن پاک",
-      "short_name": "قرآن",
-      "url": "./index.html#quran",
-      "description": "قرآن پاک پڑھیں"
     }
   ]
 }
