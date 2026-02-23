@@ -1,8 +1,0 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.balochzameer409_oss.twa",
-        "sha256_cert_fingerprints": ["FE:00:3A:3E:10:54:84:C2:83:B1:FC:CB:BF:06:17:74:81:15:02:F6:D0:03:CE:76:75:87:83:5C:0A:DB:22:FD"]
-      }
-    }]
